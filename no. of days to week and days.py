@@ -1,0 +1,5 @@
+num=int(input("enter number of days:"))
+weeks=int(num/7)
+days=int(num%7)
+print("number of weeks" ,weeks)
+print("number of days" ,days)
